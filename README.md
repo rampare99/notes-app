@@ -25,3 +25,6 @@ node app.js list
 ```
 node app.js read --title="your title"
 ```
+
+
+![alt text](https://imgur.com/zgJ7B7r.png)
